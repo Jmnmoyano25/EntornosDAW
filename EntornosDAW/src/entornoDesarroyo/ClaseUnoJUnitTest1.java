@@ -1,4 +1,4 @@
-package EntornosDesarrollo;
+package entornoDesarroyo;
 
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.AfterAll;

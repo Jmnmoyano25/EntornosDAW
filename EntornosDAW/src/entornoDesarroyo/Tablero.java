@@ -1,4 +1,5 @@
- package EntornosDesarrollo;
+package entornoDesarroyo;
+
 
 public class Tablero {
 	
