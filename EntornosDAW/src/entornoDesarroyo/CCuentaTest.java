@@ -12,7 +12,7 @@ public class CCuentaTest {
 
 	CCuenta miCuenta = new CCuenta();
 
-//CAJA NEGRA	
+//CAJA BLANCA	
 
 	@ParameterizedTest
 	@CsvSource({"-10,1","-3,2","10,0"})
